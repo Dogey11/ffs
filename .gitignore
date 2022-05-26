@@ -1,0 +1,11 @@
+main
+ffs
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+*.ilk
+*.pdb
+vls.log
+.editorconfig
